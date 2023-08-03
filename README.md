@@ -29,3 +29,27 @@ Teach a model to classify body positions using files or striking poses in your w
 
 ## The link to the website:
 [URL](https://teachablemachine.withgoogle.com/train)
+
+
+# Flowers Model
+## DataSet:
+This dataset contains 4242 images of flowers.
+
+Type of classes:
+
+The pictures are divided into five classes:
+1. Chamomile.
+2. Tulip.
+3. Rose.
+4. Sunflower.
+5. Dandelion.
+
+Notes:
+For each class, there are about 800 photos. Photos are not high resolution, about 320x240 pixels. 
+Photos are not reduced to a single size, they have different proportions.
+
+By using the dataset from this link:
+[link](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition?resource=download)
+
+
+
