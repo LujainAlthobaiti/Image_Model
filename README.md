@@ -55,7 +55,13 @@ Photos are not reduced to a single size, they have different proportions.
 
 Class One and Two:
 
-![photo](لقطة شاشة 2023-0803 183755.png)
+![photo]()
 
+Class Third and Fourth:
 
+![]()
+
+Class Five:
+
+![photo](2.png)
 
