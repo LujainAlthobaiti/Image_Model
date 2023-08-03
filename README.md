@@ -53,6 +53,9 @@ By using the dataset from this link:
 
 shots of the classes:
 
+Class One and Two:
+
+![photo](لقطة شاشة 2023-08-03 183755.png)
 
 
 
