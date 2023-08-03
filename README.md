@@ -80,3 +80,12 @@ After finishing training the model we will start testing the model
 The output after training and testing the model
 
 ![photo](5.png)
+
+# Teachable Machine Library 
+
+Library for using image models created with Teachable Machine.
+
+## Model checkpoints
+There is one link related to your model that will be provided by Teachable Machine
+
+
