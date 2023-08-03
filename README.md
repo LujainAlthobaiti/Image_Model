@@ -70,3 +70,9 @@ Class Five:
 After finishing classifying the class we will start training the model
 
 ![photo](3.png)
+
+#### Step3:
+
+After finishing training the model we will start test the model
+
+![photo](4.png)
