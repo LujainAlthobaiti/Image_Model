@@ -59,7 +59,7 @@ Class One and Two:
 
 Class Third and Fourth:
 
-![photo]()
+![photo](6.png)
 
 Class Five:
 
@@ -79,4 +79,4 @@ After finishing training the model we will start testing the model
 
 The output after training and testing the model
 
-![photo](6.png)
+![photo](5.png)
