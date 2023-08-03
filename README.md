@@ -87,5 +87,5 @@ Library for using image models created with Teachable Machine.
 
 ## You can use to access:
 
-  The model topology: 
-  The model metadata: 
+  The model topology: [](metadata.json)
+  The model metadata: [](model.json)
