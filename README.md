@@ -73,6 +73,10 @@ After finishing classifying the class we will start training the model
 
 #### Step3:
 
-After finishing training the model we will start test the model
+After finishing training the model we will start testing the model
 
 ![photo](4.png)
+
+The output after training and testing the model
+
+![photo]()
