@@ -35,7 +35,7 @@ Teach a model to classify body positions using files or striking poses in your w
 ## DataSet:
 This dataset contains 4242 images of flowers.
 
-Type of classes:
+### Type of classes:
 
 The pictures are divided into five classes:
 1. Chamomile.
@@ -48,14 +48,14 @@ Notes:
 For each class, there are about 800 photos. Photos are not high resolution, about 320x240 pixels. 
 Photos are not reduced to a single size, they have different proportions.
 
-By using the dataset from this link:
+### By using the dataset from this link:
 [link](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition?resource=download)
 
-shots of the classes:
+### shots of the classes:
 
 Class One and Two:
 
-![photo](لقطة شاشة 2023-08-03 183755.png)
+![photo](لقطة شاشة 2023-0803 183755.png)
 
 
 
