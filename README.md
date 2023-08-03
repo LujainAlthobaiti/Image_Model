@@ -85,7 +85,7 @@ The output after training and testing the model
 
 Library for using image models created with Teachable Machine.
 
-## Model checkpoints
-There is one link related to your model that will be provided by Teachable Machine
+## You can use to access:
 
-
+  The model topology: 
+  The model metadata: 
