@@ -51,5 +51,8 @@ Photos are not reduced to a single size, they have different proportions.
 By using the dataset from this link:
 [link](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition?resource=download)
 
+shots of the classes:
+
+
 
 
