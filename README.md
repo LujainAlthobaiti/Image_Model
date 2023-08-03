@@ -55,11 +55,11 @@ Photos are not reduced to a single size, they have different proportions.
 #### Step1:
 Class One and Two:
 
-![photo]()
+![photo](1.png)
 
 Class Third and Fourth:
 
-![]()
+![photo]()
 
 Class Five:
 
@@ -79,4 +79,4 @@ After finishing training the model we will start testing the model
 
 The output after training and testing the model
 
-![photo]()
+![photo](6.png)
