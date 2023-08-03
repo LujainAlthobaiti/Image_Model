@@ -90,3 +90,6 @@ Library for using image models created with Teachable Machine.
   The model topology: [metadata](metadata.json)
   
   The model metadata: [model](model.json)
+
+## You can download the model by:
+[model](Flowers_Model.tm)
