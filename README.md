@@ -18,14 +18,14 @@ Export your model for use in websites, applications, and other projects. Your mo
 
 ## Type of model:
 
-1. Images
+1. Images:
 Teach a model to classify images using files or your webcam.
 
-2. Sounds
+2. Sounds:
 Teach a model to classify audio by recording short sound samples.
 
-3. Poses
+3. Poses:
 Teach a model to classify body positions using files or striking poses in your webcam.
 
 ## The link to the website:
-[URL]{https://teachablemachine.withgoogle.com/train}
+[URL](https://teachablemachine.withgoogle.com/train)
