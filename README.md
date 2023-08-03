@@ -52,7 +52,7 @@ Photos are not reduced to a single size, they have different proportions.
 [link](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition?resource=download)
 
 ### shots of the classes:
-
+#### Step1:
 Class One and Two:
 
 ![photo]()
@@ -65,3 +65,8 @@ Class Five:
 
 ![photo](2.png)
 
+#### Step2:
+
+After finishing classifying the class we will start training the model
+
+![photo](3.png)
